@@ -2,7 +2,7 @@
 #include<malloc.h>
 
 #define N 4
-#define M 6
+#define M 5
 
 //			x1	x2	x3	x4	x5	b
 //	maxZ	-1	2	0	0	0	0
