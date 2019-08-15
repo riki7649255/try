@@ -1,0 +1,9 @@
+﻿  ex2.cpp
+c:\users\ריקי\desktop\לימודים\25.07.19\ex2\ex2\ex2.cpp(14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\ריקי\desktop\לימודים\25.07.19\ex2\ex2\ex2.cpp(19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ריקי\desktop\לימודים\25.07.19\ex2\ex2\ex2.cpp(29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ריקי\desktop\לימודים\25.07.19\ex2\ex2\ex2.cpp(30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ריקי\desktop\לימודים\25.07.19\ex2\ex2\ex2.cpp(52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ריקי\desktop\לימודים\25.07.19\ex2\ex2\ex2.cpp(69): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ריקי\desktop\לימודים\25.07.19\ex2\ex2\ex2.cpp(116): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Ex2.vcxproj -> C:\Users\ריקי\Desktop\לימודים\25.07.19\Ex2\Debug\Ex2.exe
